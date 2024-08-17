@@ -1,0 +1,17 @@
+{
+  "name": "clipcorner",
+  "version": "1.0.0",
+  "description": "Its an Video Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Video",
+    "website",
+    "ClipCorner",
+    "backend"
+  ],
+  "author": "Piyush K. Yadav",
+  "license": "ISC"
+}
