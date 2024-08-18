@@ -1,0 +1,16 @@
+.env
+*.env
+.env.*
+**/*.html
+**/.git
+**/.svn
+**/.hg
+/node_modules
+
+*/node_modules
+**/bower_components
+**/jspm_packages
+**/typings
+**/tsconfig.json
+
+
