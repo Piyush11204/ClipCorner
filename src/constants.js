@@ -1,1 +1,1 @@
-export const DB_NAME="ClipCorner"
+// export const DB_NAME="ClipCorner"

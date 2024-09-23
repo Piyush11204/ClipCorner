@@ -11,8 +11,8 @@ const userSchema = new mongoose.Schema(
         },
         // role: { type: String, enum: ["admin","user"] },
         avatar: {
-            type: String
-            , required: true
+            type: String, 
+            // required: true
 
         },
         coverImage: {
